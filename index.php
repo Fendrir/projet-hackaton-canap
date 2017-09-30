@@ -22,5 +22,5 @@ if($p === 'home'){
     include('pages/destroy-session.php');
 }
 $content = ob_get_clean();
-include('assets/template/default.php');
+include('template/default.php');
 ?>
