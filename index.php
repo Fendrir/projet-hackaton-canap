@@ -20,6 +20,8 @@ if($p === 'home'){
     include('pages/home.php');
 }if($p === 'disconnect'){
     include('pages/destroy-session.php');
+}if($p === 'campagne'){
+    include('pages/campagne.php');
 }
 $content = ob_get_clean();
 include('template/default.php');
