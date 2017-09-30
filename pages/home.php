@@ -13,7 +13,7 @@
 
     <div class="col-md-4 col-md-offset-4">
     
-        <p>copryrigth &copy Hackathon 2010</p>
+        <p>Copyright &copy Hackathon HVA 2017</p>
     
     </div>
 
