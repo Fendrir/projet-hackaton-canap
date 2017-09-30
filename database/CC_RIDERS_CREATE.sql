@@ -18,7 +18,7 @@ CREATE DATABASE cc_riders;
 #        Use Database.
 #------------------------------------------------------------
 
-USE DATABASE cc_riders;
+USE cc_riders;
 
 #------------------------------------------------------------
 # Table: Uti_co
