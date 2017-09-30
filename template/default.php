@@ -49,6 +49,24 @@
 
     <div class="container">
 
+        <?php
+
+            include("modal_utilisateur_haut.php");
+
+        ?>
+
+
+
+        <?php
+
+            include("modal_utilisateur_bas.php");
+
+        ?>
+
+    </div>
+
+    <div class="container">
+
         <?= $content ?>
 
     </div>
