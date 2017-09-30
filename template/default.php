@@ -55,7 +55,52 @@
 
         ?>
 
+            <div class="container">
+            
+                <div class="row">
+                
+                    <div class="col-md-3">
+                    
+                        <img src="images/profil_nature.jpg" alt="image_de_profil" width="320px" height="auto" class="image_profil">
+                    
+                    </div>
 
+                    <div class="col-md-3">
+                    
+                    <ul>
+
+                        <li>Nom : Leblanc</li>
+                        <li>Prenom : Sylvie</li>
+                        <li>métier : Dévellopeuse Web</li>
+                        <li>Mail : Sylv.dev@mail.com</li>
+                        <li>Tel : +33 6 95 14 75 33</li>
+                        <li>Région : Aude (11)</li>
+                        <li>adresse : 13 Rue de l'Hermitte</li>
+                        <li>Ville : Quillan</li>
+
+                    </ul>
+                    
+                    </div>
+                
+                </div>
+
+                <div class="row">
+                
+                    <div class="col-md-6">
+                    
+                        <h3>Description</h3>
+
+                        <div class="panel panel-default">
+
+                            <div class="panel-body">A Basic Panel</div>
+
+                        </div>
+                                        
+                    </div>
+                
+                </div>
+            
+            </div>
 
         <?php
 
