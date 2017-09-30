@@ -37,6 +37,8 @@ CREATE TABLE Uti_co(
         uti_co_ambiance_id   Int NOT NULL ,
         uti_co_ambiance_id_1 Int NOT NULL ,
         uti_co_notes_id      Int NOT NULL ,
+        uti_co_pseudo        Varchar (15) NOT NULL ,
+        uti_co_espace        Varchar (45) NOT NULL ,
         PRIMARY KEY (uti_co_id ) ,
         UNIQUE (uti_co_mail ,uti_co_tel )
 )ENGINE=InnoDB;
