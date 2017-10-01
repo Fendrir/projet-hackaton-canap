@@ -25,8 +25,10 @@
             <div id="About">
                 <h4>A propos de nous :</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                    Nullam dapibus lectus sit amet ex iaculis tincidunt. 
-                    In ex dui, auctor.</p>
+                Mauris imperdiet velit ac imperdiet luctus. Pellentesque habitant morbi tristique 
+                senectus et netus et malesuada fames ac turpis egestas. Aliquam lectus odio, bibendum 
+                sed lectus ut, tempor faucibus massa. Sed porta odio risus, at accumsan dolor 
+                efficitur et. Sed ornare gravida ipsum vel mollis. Aliquam scelerisque turpis ipsum.</p>
             </div>
         </div>
         <div id="border-left" class="col-md-4">

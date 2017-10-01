@@ -79,6 +79,12 @@ height: auto;
   border: 1px solid rgba(86,61,124,.2);
 } */
 
+.img-circle {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
 img {
   margin-bottom: 10%;
 }
