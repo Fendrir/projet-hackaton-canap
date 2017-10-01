@@ -1,45 +1,4 @@
-<<<<<<< HEAD
-/* Footer styles
--------------------------------------------------- */
-html {
-    position: relative;
-    min-height: 100%;
-  }
-  body {
-    /* Margin bottom by footer height */
-    margin-bottom: 60px;
-  }
-  #footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    /* Set the fixed height of the footer here */
-    height: 280px;
-    background: 
-    /* color overlay */ 
-      linear-gradient(
-        rgba(240, 212, 0, 0.45), 
-        rgba(0, 0, 0, 0.45)
-      ),
-      /* image to overlay */
-      url(http://images.cdn.fotopedia.com/_avPIZmqM3w-7z161LH_268-hd.jpg);
-  }
-  
-  
-  /* Custom footer CSS
-  -------------------------------------------------- */
-  
-  .container {
-    width: auto;
-    max-width: 680px;
-    padding: 0 15px;
-  }
-  .container .text-muted {
-    margin: 20px 0;
-  }
-  .footertext {
-    color: #ffffff;
-  }
+
 
   /* mise en forme de la partie fiche utilisateur */
 
@@ -113,15 +72,8 @@ height: auto;
   background-color: rgba(86,61,124,.15);
   border: 1px solid rgba(86,61,124,.2);
 } */
-=======
-/* [class*="col"], footer {
-  background-color: lightgreen;
-  border: 2px solid black;
-  border-radius: 6px;
-  line-height: 40px;
-  text-align: center;
-}
- */
+
+
 h3 {
   padding-top: 10%;
 }
@@ -132,4 +84,4 @@ img {
 #border-left {
   border-left: 2px solid black;
 }
->>>>>>> 78b0beb2a6ffe5440ee26eb40e08c70ed12c521c
+
