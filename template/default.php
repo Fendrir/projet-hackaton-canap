@@ -50,7 +50,7 @@
                 
                     <div class="col-md-5">
                     
-                        <img src="images/profil_nature-recadre.jpg" alt="image_de_profil" class="image_profil">
+                        <img src="images/myAvatar.png" alt="image_de_profil" class="image_profil">
                     
                     </div>
 

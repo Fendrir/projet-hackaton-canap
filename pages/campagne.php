@@ -5,7 +5,7 @@
         </input>
     </div>
     <div class="col-md-3">
-        <a data-toggle="modal" data-target="#profil" href="#"><img class="img-circle" src="images/profil_nature-recadre.jpg" alt="profil"></a>
+        <a data-toggle="modal" data-target="#profil" href="#"><img class="img-circle" src="images/myAvatar.png" alt="profil"></a>
         <div class="col-md-4 col-md-offset-2">Sylvie</div>
         <div class="col-md-5 col-md-offset-2">27 ans</div>
         <div class="col-md-4 col-md-offset-2">Quillan</div>
