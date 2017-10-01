@@ -44,49 +44,101 @@
             include("modal_utilisateur_haut.php");
         ?>
 
-            <div class="container">
+            <div class="container-fluid">
             
                 <div class="row">
                 
-                    <div class="col-md-3">
+                    <div class="col-md-5">
                     
-                        <img src="images/profil_nature.jpg" alt="image_de_profil" width="320px" height="auto" class="image_profil">
+                        <img src="images/profil_nature-recadre.jpg" alt="image_de_profil" class="image_profil">
                     
                     </div>
 
-                    <div class="col-md-3">
+                    <div class="col-md-7 position-profil">
                     
-                    <ul>
+                        <ul>
 
-                        <li>Nom : Leblanc</li>
-                        <li>Prenom : Sylvie</li>
-                        <li>métier : Dévellopeuse Web</li>
-                        <li>Mail : Sylv.dev@mail.com</li>
-                        <li>Tel : +33 6 95 14 75 33</li>
-                        <li>Région : Aude (11)</li>
-                        <li>adresse : 13 Rue de l'Hermitte</li>
-                        <li>Ville : Quillan</li>
+                            <li><b>Nom :</b> Leblanc</li>
+                            <li><b>Prenom :</b> Sylvie</li>
+                            <li><b>Métier :</b> Développeuse Web</li>
+                            <li><b>Mail :</b> Sylv.dev@mail.com</li>
+                            <li><b>Tel :</b> +33 6 95 14 75 33</li>
+                            <li><b>Région :</b> Aude (11)</li>
+                            <li><b>Adresse :</b> 13 Rue de l'Hermitte</li>
+                            <li><b>Ville :</b> Quillan</li>
 
-                    </ul>
+                        </ul>
                     
                     </div>
                 
                 </div>
 
+            </div>
+
+            <div class="container">
+
                 <div class="row">
                 
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                     
                         <h3>Description</h3>
 
                         <div class="panel panel-default">
 
-                            <div class="panel-body">A Basic Panel</div>
+                            <div class="panel-body">Un petit coin de paradis avec plusieurs attractions, VTT, chemins de randonnées et un air pur parfait pour ce ressourcer. </br>
+                            Venez dans cet espace de Co-working vous êtes le bienvenu !
+                            </div>
 
                         </div>
                                         
                     </div>
                 
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-4 col-md-offset-3">
+
+                        <div class="panel panel-success">
+
+                            <div class="panel-heading"><b>Réservation disponible</b><label for="date"></label></div>
+
+                            <div class="panel-body">Vous pouvez réserver :<input class="form-control" type="date" name="date" id="date"></div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- <div class="form-group col-md-4 col-md-offset-1 disponible">
+                            
+                            
+
+                        <label for="date">date</label>
+        
+                        <input class="form-control" type="date" name="date" id="date">
+
+                    </div> -->
+
+                </div>
+
+            </div>
+
+            <div class="container-fluid">
+
+                <div class="row">
+                
+                    <div class="col-md-6 div_photo">
+
+                        <img src="images/bureau.jpg" alt="image-co-working" class="bureau img-thumbnail text-center">
+                    
+                    </div>
+
+                    <div class="col-md-6 div_photo">
+
+                        <img src="images/campagne.jpg" alt="campagne-co-working" class="campagne img-thumbnail">
+                    
+                    </div>
+                 
                 </div>
             
             </div>

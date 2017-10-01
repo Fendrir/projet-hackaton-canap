@@ -1,11 +1,79 @@
-/* [class*="col"], footer {
-  background-color: lightgreen;
-  border: 2px solid black;
-  border-radius: 6px;
-  line-height: 40px;
-  text-align: center;
+
+
+  /* mise en forme de la partie fiche utilisateur */
+
+
+  /* cadrage image profil */
+
+  .image_profil {
+
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: auto;
+
+
+  }
+
+li{
+
+list-style: none;
+
 }
- */
+
+.position-profil{
+
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.bureau{
+
+width: 75%;
+height: auto;
+
+}
+
+.div_photo{
+
+  text-align: center;
+  margin: auto;
+  padding: auto;
+
+}
+
+.campagne{
+
+width: 80%;
+height: auto;
+
+}
+
+.disponible{
+
+  padding-top: 15px;
+
+}
+
+.panel_body{
+
+  width: 60px;
+
+
+}
+
+/* .row [class^="col-"] {
+  
+  
+  background-color: #eee;
+  border: 1px solid #ddd;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid rgba(86,61,124,.2);
+} */
+
+
 h3 {
   padding-top: 10%;
 }
