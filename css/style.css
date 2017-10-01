@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Footer styles
 -------------------------------------------------- */
 html {
@@ -112,3 +113,23 @@ height: auto;
   background-color: rgba(86,61,124,.15);
   border: 1px solid rgba(86,61,124,.2);
 } */
+=======
+/* [class*="col"], footer {
+  background-color: lightgreen;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;
+  text-align: center;
+}
+ */
+h3 {
+  padding-top: 10%;
+}
+img {
+  margin-bottom: 10%;
+}
+
+#border-left {
+  border-left: 2px solid black;
+}
+>>>>>>> 78b0beb2a6ffe5440ee26eb40e08c70ed12c521c

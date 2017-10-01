@@ -9,7 +9,7 @@
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
     <title>Skills & Sofa</title>
 </head>
-<body>  
+<body data-spy="scroll" data-target=".navbar" data-offset="50">  
     <header>
         <?php include("nav_bar.php");?>
     </header>
@@ -154,44 +154,9 @@
         <?= $content ?>
     </div>
 
-    <div class="container well">
-	<h2><center>courrier@aude.fr</center></h2>
-</div>
-<div id="footer">
     <div class="container">
-        <div class="row">
-            <h3 class="footertext">About Us:</h3>
-            <br>
-              <div class="col-md-4">
-                <center>
-                  <img src="img/coworker.jpg" class="img-circle" alt="coworker">
-                  <br>
-                  <h4 class="footertext">Coworker</h4>
-                  <p class="footertext">Et si vous pensiez à travailler autrement ?<br>
-                </center>
-              </div>
-              <div class="col-md-4">
-                <center>
-                  <img src="img/skills.jpg" class="img-circle" alt="compétences">
-                  <br>
-                  <h4 class="footertext">Skills</h4>
-                  <p class="footertext">Venez partager vos compétences.<br>
-                </center>
-              </div>
-              <div class="col-md-4">
-                <center>
-                  <img src="img/sofa.jpg" class="img-circle" alt="...">
-                  <br>
-                  <h4 class="footertext">Sofa</h4>
-                  <p class="footertext">Venez vous ressourcer chez d'autres coworker.<br>
-                </center>
-              </div>
-            </div>
-            <div class="row">
-            <p><center><a href="#">Contact</a> <p class="footertext">Copyright&copy HVA 2017</p></center></p>
-        </div>
+        <?php include('footer.php');?>
     </div>
-</div>
 
     <script src="node_modules/jquery/dist/jquery.js"></script>
     <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
