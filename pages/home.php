@@ -5,13 +5,20 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-5"><img src="img/Campagne.jpg" alt="campagne"></div>
-        <div class="col-md-5 col-md-offset-2"><img src="img/ville.jpg" alt="ville"></div>
-        <div class="col-md-5"><img src="img/mer.jpg" alt="mer"></div>
-        <div class="col-md-5 col-md-offset-2"><img src="img/montagne.jpg" alt="montagne"></div>
+        <blockquote>
+        <div class="col-md-2"><small><cite>A la campagne</cite></small></div>
+        <div class="col-md-2 col-md-offset-8"><small><cite>A la ville</cite></small></div>
+        </blockquote>
+        <div class="col-md-5"><a href="?p=campagne"><img class="thumbnail" src="img/Campagne.jpg" alt="campagne"></a></div>
+        <div class="col-md-5 col-md-offset-2"><a href=""><img class="thumbnail" src="img/ville.jpg" alt="ville"></a></div>
     </div>
     <div class="row">
-      
+        <blockquote>
+            <div class="col-md-2"><small><cite>A la mer</cite></small></div>
+            <div class="col-md-2 col-md-offset-8"><small><cite>A la montagne</cite></small></div>
+        </blockquote>
+        <div class="col-md-5"><a href=""><img class="thumbnail" src="img/mer.jpg" alt="mer"></a></div>
+        <div class="col-md-5 col-md-offset-2"><a href=""><img class="thumbnail" src="img/montagne.jpg" alt="montagne"></a></div>
     </div>
     <div class="row">
         <div class="col-md-8">

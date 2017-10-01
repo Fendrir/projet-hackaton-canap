@@ -64,6 +64,12 @@ height: auto;
 
 }
 
+
+.fousToiAuFond {
+  padding-bottom: 60px;
+}
+
+
 /* .row [class^="col-"] {
   
   
@@ -73,10 +79,6 @@ height: auto;
   border: 1px solid rgba(86,61,124,.2);
 } */
 
-
-h3 {
-  padding-top: 10%;
-}
 img {
   margin-bottom: 10%;
 }
