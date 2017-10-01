@@ -75,11 +75,11 @@
 
             </div>
 
-            <div class="container">
+            <div class="container-fluid">
 
                 <div class="row">
                 
-                    <div class="col-md-10">
+                    <div class="col-md-10 col-md-offset-1">
                     
                         <h3>Description</h3>
 
@@ -97,7 +97,7 @@
 
                 <div class="row">
 
-                    <div class="col-md-4 col-md-offset-3">
+                    <div class="col-md-6 col-md-offset-3">
 
                         <div class="panel panel-success">
 
